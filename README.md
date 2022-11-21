@@ -1,4 +1,4 @@
-﻿﻿# Rounds Mod Template
+# Rounds Mod Template
 
 This is the main template I use for making mods for rounds. 
 If you have never made a mod before then it should be used after reading through [Willuwontu's Modding Tutorial](https://docs.google.com/document/d/1zu_89HeFC4aU9xI1MGXTkW1rDLnVCVfoQa5YiNpaWD8/edit)
@@ -24,3 +24,13 @@ The following is a list of extra libraries that may aid in the project you are m
 - [RarityLib](https://rounds.thunderstore.io/package/Root/RarityLib/) Used for creating/using custom rarities. Adds Legendary by default.
 - [CardThemeLib](https://rounds.thunderstore.io/package/Root/CardThemeLib/) Used for creating/using custom card themes. (the border and background colour of the cards)
 - [ItemShops](https://rounds.thunderstore.io/package/willuwontu/ItemShops/) A utillity for creating really cool shops inside the game.
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<sup><sub><sub>Note: A discord server exists to aid in modding and playing modded games, it can be joined here https://discord.gg/zUtsjXWeWk</sub></sup></sup>
