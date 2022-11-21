@@ -12,8 +12,10 @@ To add art to cards, replace the assets file with a custom one. Follow [this tut
 (Note: the asset bundle should be named "assets")
 
 
+To create harmony patches see [this documentaion](https://harmony.pardeike.net/articles/intro.html)
 
-### Sugjested Libraries 
+
+### Suggested Libraries 
 
 The following is a list of extra libraries that may aid in the project you are making:
 - [WillsWackyManagers](https://rounds.thunderstore.io/package/willuwontu/WillsWackyManagers/) Primarily used for curses.
