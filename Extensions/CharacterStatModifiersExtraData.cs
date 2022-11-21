@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace ROUNDS_the_Spire.Extentions
+namespace Base_Card_Mod_Template.Extentions
 {
     [Serializable]
     public class CharacterStatModifiersExtraData
