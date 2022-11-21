@@ -1,0 +1,1 @@
+﻿Use this folder to hold any classes used to handle card effects
