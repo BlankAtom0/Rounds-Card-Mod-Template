@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace Base_Card_Mod_Template.Extentions
+namespace Base_Card_Mod_Template.Extensions
 {
     [Serializable]
     public class CharacterStatModifiersExtraData
